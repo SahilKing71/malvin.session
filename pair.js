@@ -57,23 +57,23 @@ router.get('/', async (req, res) => {
 
                let Mudasir_KING_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃ᴍᴀʟᴠɪɴ-ᴍᴅ SESSION IS 
+Mudasir_bot_2 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘⚡ MUDASIR KING𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+❷ || Channel = https://whatsapp.com/channel/0029Vb89jenCnA80Um9na63M
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❸ || Owner = https://wa.me/923239956476
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❺ || Bot Repo = https://github.com/SahilKing71/Mudasir_bot_2
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@malvintech2 
+❻ || Group = https://chat.whatsapp.com/BgKtWgynOcGGsoHr2PSVmW 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©2024-2099 ᴍᴀʟᴠɪɴ-ᴋɪɴɢ_`
- await Pair_Code_By_Mudasir_King.sendMessage(Pair_Code_By_Mudasir_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
+ await Pair_Code_By_Mudasir_King.sendMessage(Pair_Code_By_Mudasir_King.user.id,{text:Mudasir_KING_TEXT},{quoted:session})
  
 
         await delay(100);
@@ -92,6 +92,6 @@ router.get('/', async (req, res) => {
          }
         }
     }
-    return await MALVIN_KING_PAIR_CODE()
+    return await MUdasir_KING_PAIR_CODE()
 });
 module.exports = router
